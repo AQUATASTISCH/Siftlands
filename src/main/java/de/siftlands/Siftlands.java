@@ -21,7 +21,9 @@ public class Siftlands implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Siftlands loaded");
+		ModItems.initialize();
+		ModBlocks.initialize();
 	}
 
 	public static Identifier id(String path) {
