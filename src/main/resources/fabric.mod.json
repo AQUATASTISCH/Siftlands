@@ -3,13 +3,14 @@
 	"id": "siftlands",
 	"version": "${version}",
 	"name": "Siftlands",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Siftlands is a Fabric mod created for the Siftlands.de server, but usable on any Fabric server.",
 	"authors": [
-		"Me!"
+		"AQUATASTISCH"
 	],
 	"contact": {
 		"homepage": "https://siftlands.de/",
-		"sources": "https://github.com/AQUATASTISCH/Siftlands/"
+		"sources": "https://github.com/AQUATASTISCH/Siftlands/",
+		"issues": "https://github.com/AQUATASTISCH/Siftlands/issues"
 	},
 	"license": "AGPL-3.0-only",
 	"icon": "assets/siftlands/icon.png",
