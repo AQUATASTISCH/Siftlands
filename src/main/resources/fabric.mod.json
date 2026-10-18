@@ -8,10 +8,10 @@
 		"Me!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://siftlands.de/",
+		"sources": "https://github.com/AQUATASTISCH/Siftlands/"
 	},
-	"license": "CC0-1.0",
+	"license": "AGPL-3.0-only",
 	"icon": "assets/siftlands/icon.png",
 	"environment": "*",
 	"entrypoints": {
